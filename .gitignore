@@ -1,0 +1,5 @@
+images/
+venv-ubuntu/
+venv/
+models/yolov8x-pose.pt
+.idea/
