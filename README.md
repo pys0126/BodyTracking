@@ -16,3 +16,7 @@
 
 - yolov8n-pose.pt（已在`models`目录中）
 - [yolov8x-pose.pt](https://github.com/ultralytics/assets/releases/download/v0.0.0/yolov8x.pt)（下载后放入`models`目录中）
+
+## 下一步
+
+- [使用AHK实现驱动级模拟](https://www.autohotkey.com/)
