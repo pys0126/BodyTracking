@@ -24,6 +24,7 @@ def move_mouse_by_window(window_xy: tuple, xy: tuple) -> None:
     # 移动鼠标
     x = window_xy[0] + xy[0] + x_offset
     y = window_xy[1] + xy[1] + y_offset
+    pyautogui.FAILSAFE = False
     pyautogui.moveTo(x, y, duration=mouse_speed)
 
 
